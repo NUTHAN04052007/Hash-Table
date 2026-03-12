@@ -17,3 +17,13 @@ UC1 - Username Availability Checker
 2. Check if username exists
 3. If taken, suggest alternatives
 4. Track attempted usernames
+
+## UC2 – Flash Sale Inventory Manager
+
+### Objective
+Implement a flash sale inventory system using HashMap.
+
+### Concepts Used
+- HashMap
+- O(1) lookup
+- Inventory tracking
